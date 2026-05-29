@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Energy Markets in Africa</title>
+<desc id="desc">Blog Article</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#111827"/>
+    <stop offset="0.55" stop-color="#334155"/>
+    <stop offset="1" stop-color="#0e7490"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22d3ee"/>
+    <stop offset="1" stop-color="#f97316"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity="0.20"/>
+  </filter>
+</defs>
+<rect width="1200" height="760" rx="44" fill="url(#bg)"/>
+<circle cx="1030" cy="120" r="205" fill="#f97316" opacity="0.13"/>
+<circle cx="150" cy="645" r="230" fill="#e0f2fe" opacity="0.12"/>
+<g opacity="0.12" stroke="#ffffff" stroke-width="2">
+  <path d="M80 120H1120M80 250H1120M80 380H1120M80 510H1120M80 640H1120"/>
+  <path d="M165 70V690M340 70V690M515 70V690M690 70V690M865 70V690M1040 70V690"/>
+</g>
+<rect x="90" y="78" width="1020" height="604" rx="42" fill="#ffffff" opacity="0.10" filter="url(#shadow)"/>
+<text x="600" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" letter-spacing="5" fill="#22d3ee">BLOG ARTICLE</text>
+<g>
+  <path d="M584 214c72 7 112 56 123 121l70 37-59 46 12 88-75 20-38 79-78-55-82 8 6-81-58-49 65-53 16-92 98-69Z" fill="#ffffff" opacity=".16"/>
+  <g stroke="#22d3ee" stroke-width="7" opacity=".8"><path d="M505 410l95-75 104 74M505 410l80 91M704 409l-119 92M600 335l-15 166"/></g>
+  <circle cx="505" cy="410" r="26" fill="url(#accent)"/><circle cx="600" cy="335" r="26" fill="url(#accent)"/><circle cx="704" cy="409" r="26" fill="url(#accent)"/><circle cx="585" cy="501" r="26" fill="url(#accent)"/>
+  <text x="600" y="238" text-anchor="middle" font-family="Arial" font-size="38" font-weight="900" fill="#fff">Local Energy Markets</text>
+</g>
+<text x="600" y="615" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#ffffff">Energy Markets in Africa</text>
+</svg>
